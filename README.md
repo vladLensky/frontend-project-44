@@ -8,3 +8,6 @@ brain-even ASCIINEMA:
 
 brain-calc ASCIINEMA:
 <a href="https://asciinema.org/a/WfuNPuuyD1ldaMo2EvF52wZdU" target="_blank"><img src="https://asciinema.org/a/WfuNPuuyD1ldaMo2EvF52wZdU.svg" /></a>
+
+brain-gcd ASCIINEMA:
+<a href="https://asciinema.org/a/kOhRnoO0KDpN3nIDmcacdXDMS" target="_blank"><img src="https://asciinema.org/a/kOhRnoO0KDpN3nIDmcacdXDMS.svg" /></a>
