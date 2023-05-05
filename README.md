@@ -14,3 +14,6 @@ brain-gcd ASCIINEMA:
 
 brain-progression ASCIINEMA:
 <a href="https://asciinema.org/a/C6iOB40rk59yLY4M8YyMPdeyG" target="_blank"><img src="https://asciinema.org/a/C6iOB40rk59yLY4M8YyMPdeyG.svg" /></a>
+
+brain-prime ASCIINEMA:
+<a href="https://asciinema.org/a/UeGOmxRsClCmktUCZIUksCHQM" target="_blank"><img src="https://asciinema.org/a/UeGOmxRsClCmktUCZIUksCHQM.svg" /></a>
