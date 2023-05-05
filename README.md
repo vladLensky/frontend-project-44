@@ -11,3 +11,6 @@ brain-calc ASCIINEMA:
 
 brain-gcd ASCIINEMA:
 <a href="https://asciinema.org/a/kOhRnoO0KDpN3nIDmcacdXDMS" target="_blank"><img src="https://asciinema.org/a/kOhRnoO0KDpN3nIDmcacdXDMS.svg" /></a>
+
+brain-progression ASCIINEMA:
+<a href="https://asciinema.org/a/C6iOB40rk59yLY4M8YyMPdeyG" target="_blank"><img src="https://asciinema.org/a/C6iOB40rk59yLY4M8YyMPdeyG.svg" /></a>
