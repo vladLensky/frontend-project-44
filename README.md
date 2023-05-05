@@ -3,6 +3,18 @@
 [![Actions Status](https://github.com/vladLensky/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/vladLensky/frontend-project-44/actions)
 [Maintainability]("https://codeclimate.com/github/vladLensky/frontend-project-44/maintainability")
 
+1. To install BRAIN-GAMES:
+   a. git clone https://github.com/vladLensky/frontend-project-44
+   b. npm link
+   c. engoy! :>
+
+2. To start the games:
+   a. brain-even
+   b. brain-calc
+   c. brain-gcd
+   d. brain-progression
+   e. brain-prime
+
 brain-even ASCIINEMA:
 <a href="https://asciinema.org/a/N8MJfxC5C9OiipDE79WkXmlmo" target="_blank"><img src="https://asciinema.org/a/N8MJfxC5C9OiipDE79WkXmlmo.svg" /></a>
 
