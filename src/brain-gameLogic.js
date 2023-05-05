@@ -1,3 +1,4 @@
+/* eslint-disable comma-dangle */
 import readlineSync from 'readline-sync';
 
 export const roundsNumber = 3;
@@ -14,7 +15,9 @@ const runGameLogic = (rounds, description) => {
     if (userAnswer === answer) {
       console.log('Correct!');
     } else {
-      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${answer}'.`);
+      console.log(
+        `'${userAnswer}' is wrong answer ;(. Correct answer was '${answer}'.`
+      );
       console.log(`Let's try again, ${name}!`);
       return;
     }

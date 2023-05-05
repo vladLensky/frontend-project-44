@@ -5,3 +5,6 @@
 
 brain-even ASCIINEMA:
 <a href="https://asciinema.org/a/N8MJfxC5C9OiipDE79WkXmlmo" target="_blank"><img src="https://asciinema.org/a/N8MJfxC5C9OiipDE79WkXmlmo.svg" /></a>
+
+brain-calc ASCIINEMA:
+<a href="https://asciinema.org/a/WfuNPuuyD1ldaMo2EvF52wZdU" target="_blank"><img src="https://asciinema.org/a/WfuNPuuyD1ldaMo2EvF52wZdU.svg" /></a>
