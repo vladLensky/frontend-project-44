@@ -1,3 +1,4 @@
+/* eslint-disable operator-linebreak */
 import { randomNumber } from '../utils.js';
 import runGameLogic, { roundsNumber } from '../brain-gameLogic.js';
 
